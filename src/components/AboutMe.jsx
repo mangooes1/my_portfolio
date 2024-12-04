@@ -24,7 +24,7 @@ function AboutMe() {
         <button className='about--button--resume'>
           Resume
           <FaArrowRightLong size={25} style={{ marginLeft: '10px' }} />
-          <a href="https://drive.google.com/file/d/1-ARqNzfqtcuJ092o0stmlYMeBLng2MI7/view?usp=sharing" target="_blank">
+          <a href="https://drive.google.com/file/d/16PDvp9JQ-cQc9IS26EyeuG7zcwznbI9T/view?usp=sharing" target="_blank">
             <button className='about--button--open'>
               <MdOpenInNew size={30} />
             </button>
